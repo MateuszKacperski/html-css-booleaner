@@ -37,7 +37,10 @@ h1{
 }
 
 .lista{
-    margin-left: 0px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    text-align: left;
 }
 
 .evidenzia{
@@ -64,4 +67,41 @@ h1{
 .riga-bluscuro{
     background: dodgerblue;
     border: 0px;
+}
+
+
+
+/* footer */
+
+h3{
+    font-size: 20px;
+    color: grey;
+}
+
+.monitor{
+    height: 200px;
+    width: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 10px;
+    
+    
+}
+
+.pattern{
+    height: 200px;
+    width: 200px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+.testo{
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;;
 }
