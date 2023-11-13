@@ -7,15 +7,22 @@
 
 /* heder */
 
-#immagine-header{
+.immagine-header{
     height: 100px;
     width: 1080px;
     background-color: cornflowerblue;
-    background-image: url("img/pattern.png");
-    background-image: url("img/logo.svg");
+    background-image: url("../img/pattern.png");
+    background-size: 320px;
 }
 
+.logo{
+    height: 300px;
+    width: 200px;
+    position: top left;
+    padding-top: 25px;
+}   
 h1{
     font-size: 39px;
     margin-bottom: 0px;
 }
+
