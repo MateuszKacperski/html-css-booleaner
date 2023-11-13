@@ -44,6 +44,24 @@ h1{
     background: yellow;
 }
 
+
+.corta{
+    width: 250px;
+    height: 50px;
+}
+
+.lunga{
+    width: 550px;
+    height: 50px;
+}
+
+.cieleste{
+    background-color:cyan;
+    border: 0px;
+}
+
+
 .riga-bluscuro{
-    background: #006eff;
+    background: dodgerblue;
+    border: 0px;
 }
