@@ -1,4 +1,21 @@
+/* Creo container */
+
 .conteiner{
     max-width: 1080px;
     margin: 0 auto;
+}
+
+/* heder */
+
+#immagine-header{
+    height: 100px;
+    width: 1080px;
+    background-color: cornflowerblue;
+    background-image: url("img/pattern.png");
+    background-image: url("img/logo.svg");
+}
+
+h1{
+    font-size: 39px;
+    margin-bottom: 0px;
 }
