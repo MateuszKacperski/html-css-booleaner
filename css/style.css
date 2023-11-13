@@ -20,9 +20,20 @@
     width: 200px;
     padding-top: 25px;
 }   
-h1{
+.titolo-header{
     font-size: 39px;
-    margin-bottom: 0px;
+    margin: 0px;
+    padding-top:0px;
+}
+
+.autore{
+    font-size: 15px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#data{
+    font-size: 10px;
 }
 
 /* main */
@@ -34,12 +45,13 @@ h1{
 
 .titoli-immagini{
     margin-top: 0px;
+    padding-top: 0px;
 }
 
 .lista{
-    padding: 0px;
-    border: 0px;
-    margin: 0px;
+    padding-left: 0px;
+    border-left: 0px;
+    margin-left: 0px;
     text-align: left;
 }
 
@@ -47,26 +59,34 @@ h1{
     background: yellow;
 }
 
+.tabella{
+    column-rule-style: none;
+    margin: 0px;
+}
 
 .corta{
     width: 250px;
     height: 50px;
+    margin: 0px;
 }
 
 .lunga{
     width: 550px;
     height: 50px;
+    margin: 0px;
 }
 
 .cieleste{
     background-color:cyan;
     border: 0px;
+    margin: 0px;
 }
 
 
 .riga-bluscuro{
     background: dodgerblue;
     border: 0px;
+    margin: 0px;
 }
 
 
